@@ -21,10 +21,7 @@
 ## 🚀 Usage
 
 To run the API follow the instructions below:
-1. Enter an api key to protect your API. You can do this by creating a `.env` file in the root directory of the project and adding the following content:
-```
-API_KEY=<ENTER_YOUR_KEY_HERE>
-```
+1. Enter an api key to protect your API. You can do this by renaming `.env.example` to `.env` and adding your information.
 
 2. Run the API using the command:
 ```bash
