@@ -1,2 +1,4 @@
 .idea/
 .env
+dist/
+chatosaurus_api.egg-info/

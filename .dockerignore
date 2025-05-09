@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+chatosaurus_api.egg-info/
+uploads/
+dist/
